@@ -5,7 +5,7 @@
 
 - The resources aren't listed in any particular order. 
 - If you notice a broken link please let me know so I can remove or update the resource. 
-- These resources can also be viewed on the [Codprendo iOS App](https://apps.apple.com/us/app/id1514512697)
+
 
 
 ### Articles 📰
