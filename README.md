@@ -4,7 +4,8 @@
 ![Jake GIF](https://media.giphy.com/media/f31DK1KpGsyMU/giphy.gif)
 
 - The resources aren't listed in any particular order. 
-- If you notice a broken link please let me know so I can remove or update the resource. 
+- If you notice a broken link please let me know so I can remove or update the resource.
+- You can also view these resources on the [Codprendo iOS App](https://apple.co/2EDqnub)
 
 
 
