@@ -10,11 +10,14 @@
 
 
 ### Articles 📰
+- [Data Structures & Algorithms in Python](https://towardsdatascience.com/data-structures-algorithms-in-python-68c8dbb19c90)
 - [8 Common Data Structures every Programmer must know"](https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42)
 - [An introduction to Big O in Swift](https://www.donnywals.com/an-introduction-to-big-o-in-swift/)
 
 
 ### Guides 🙌
+- [Complete Beginner's Guide to Big O Notation](https://www.youtube.com/watch?v=kS_gr2_-ws8&ab_channel=ColtSteele)
+- [Common Python Data Structures](https://realpython.com/python-data-structures/)
 - [The Algorithms](https://github.com/TheAlgorithms)
 - [GeeksForGeeks](https://www.geeksforgeeks.org/data-structures/)
 - [Introduction to Data Structures and Algorithms](https://www.studytonight.com/data-structures/introduction-to-data-structures)
@@ -26,6 +29,9 @@
 
 
 ### Courses 📺
+- [Data Structures - Computer Science Course for Beginners](https://www.youtube.com/watch?v=zg9ih6SVACc&feature=youtu.be)
+- [Understanding Data Structures using C#](https://www.udemy.com/course/understanding-data-structures-using-c/)
+- [C ++ Advanced to Data Structures](https://www.edx.org/course/c-advanced-to-data-structures)
 - [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 - [Data Structures and Algorithms with C++ Practical Implementation](https://www.youtube.com/playlist?list=PLIY8eNdw5tW_zX3OCzX7NJ8bL1p6pWfgG)
 - [Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
