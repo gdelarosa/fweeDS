@@ -11,7 +11,7 @@
 
 ### Articles 📰
 - [8 Common Data Structures every Programmer must know"](https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42)
-- [An introduction to Big O in Swift"](https://www.donnywals.com/an-introduction-to-big-o-in-swift/)
+- [An introduction to Big O in Swift](https://www.donnywals.com/an-introduction-to-big-o-in-swift/)
 
 
 ### Guides 🙌
@@ -26,6 +26,7 @@
 
 
 ### Courses 📺
+- [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 - [Data Structures and Algorithms with C++ Practical Implementation](https://www.youtube.com/playlist?list=PLIY8eNdw5tW_zX3OCzX7NJ8bL1p6pWfgG)
 - [Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
 - [Data Structures and Algorithms in Swift](https://www.udacity.com/course/data-structures-and-algorithms-in-swift--ud1011)
