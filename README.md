@@ -1,6 +1,8 @@
 
 **A curated list of free resources for learning data structures &amp; algorithms.**
 
+Last updated: September 8, 2020
+
 ![Jake GIF](https://media.giphy.com/media/f31DK1KpGsyMU/giphy.gif)
 
 - The resources aren't listed in any particular order. 
