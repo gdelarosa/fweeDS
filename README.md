@@ -1,7 +1,7 @@
 
 **A curated list of free resources for learning data structures &amp; algorithms.**
 
-Last updated: September 8, 2020
+Last updated: September 22, 2020
 
 ![Jake GIF](https://media.giphy.com/media/f31DK1KpGsyMU/giphy.gif)
 
@@ -12,6 +12,8 @@ Last updated: September 8, 2020
 
 
 ### Articles 📰
+- [Learn the Top Data Structures And Algorithms every Computer Science student should know](https://medium.com/the-programming-hub/learn-the-top-data-structures-and-algorithms-every-computer-science-student-should-know-833606ea50b4)
+- [Complete Introduction to the 30 Most Essential Data Structures & Algorithms](https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd)
 - [Data Structures & Algorithms in Python](https://towardsdatascience.com/data-structures-algorithms-in-python-68c8dbb19c90)
 - [8 Common Data Structures every Programmer must know"](https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42)
 - [An introduction to Big O in Swift](https://www.donnywals.com/an-introduction-to-big-o-in-swift/)
