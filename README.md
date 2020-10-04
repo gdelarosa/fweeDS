@@ -20,6 +20,7 @@ Last updated: October 04, 2020
 
 
 ### Guides 🙌
+- [Learn DS and Algorithms](https://www.programiz.com/dsa)
 - [Complete Beginner's Guide to Big O Notation](https://www.youtube.com/watch?v=kS_gr2_-ws8&ab_channel=ColtSteele)
 - [Common Python Data Structures](https://realpython.com/python-data-structures/)
 - [The Algorithms](https://github.com/TheAlgorithms)
@@ -33,7 +34,6 @@ Last updated: October 04, 2020
 
 
 ### Courses 📺
-- [Learn DS and Algorithms](https://www.programiz.com/dsa)
 - [Data Structures - Computer Science Course for Beginners](https://www.youtube.com/watch?v=zg9ih6SVACc&feature=youtu.be)
 - [Understanding Data Structures using C#](https://www.udemy.com/course/understanding-data-structures-using-c/)
 - [C ++ Advanced to Data Structures](https://www.edx.org/course/c-advanced-to-data-structures)
