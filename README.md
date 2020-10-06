@@ -7,8 +7,6 @@ Last updated: October 04, 2020
 
 - The resources aren't listed in any particular order. 
 - If you notice a broken link please let me know so I can remove or update the resource.
-- You can also view these resources on the [Codprendo iOS App](https://apple.co/2EDqnub)
-
 
 
 ### Articles 📰
