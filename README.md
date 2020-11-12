@@ -1,7 +1,7 @@
 
 **A curated list of free resources for learning data structures &amp; algorithms.**
 
-Last updated: October 04, 2020
+Last updated: November 12, 2020
 
 ![Jake GIF](https://media.giphy.com/media/f31DK1KpGsyMU/giphy.gif)
 
@@ -32,6 +32,7 @@ Last updated: October 04, 2020
 
 
 ### Courses 📺
+- [Intro to Dynamic Programming: Data Structures and Algorithms (5)](https://www.youtube.com/watch?v=IoSYsBTiARA&ab_channel=WomenWhoCode)
 - [Data Structures - Computer Science Course for Beginners](https://www.youtube.com/watch?v=zg9ih6SVACc&feature=youtu.be)
 - [Understanding Data Structures using C#](https://www.udemy.com/course/understanding-data-structures-using-c/)
 - [C ++ Advanced to Data Structures](https://www.edx.org/course/c-advanced-to-data-structures)
