@@ -59,6 +59,7 @@ Last updated: November 12, 2020
 
 
 ### Interview Prep ✍🏻
+- [Essential Data Structures and Algorithms for Coding Interviews](https://levelup.gitconnected.com/essential-data-structures-and-algorithms-for-coding-interviews-a283c755b304)
 - [Debugging the Tech Recruitment Process](https://kristen.dev/blog/2020-07-09-recruiting-process/#grind)
 - [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet#selection-sort)
 - [3 Month Coding Interview Preparation Bootcamp](https://medium.com/educative/3-month-coding-interview-bootcamp-904422926ce8)
