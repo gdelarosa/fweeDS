@@ -6,7 +6,6 @@ Last updated: November 30, 2020
 ![Jake GIF](https://media.giphy.com/media/f31DK1KpGsyMU/giphy.gif)
 
 - The resources aren't listed in any particular order. 
-- If you notice a broken link please let me know so I can remove or update the resource.
 
 
 ### Articles 📰
